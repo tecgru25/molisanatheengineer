@@ -66094,7 +66094,7 @@ A.H2.prototype={
 M(a){return A.oK(new A.a2p(),B.T,new A.ar(0,1,t.Y),t.i)}}
 A.a2p.prototype={
 $3(a,b,c){var s=null,r=A.b([new A.lk(new A.a2k(),"Home",s)],t.p)
-if(!(A.aG(a,B.z,t.w).w.a.a<=700))r.push(new A.lk(new A.a2l(),"About us",s))
+if(!(A.aG(a,B.z,t.w).w.a.a<=700))r.push(new A.lk(new A.a2l(),"About",s))
 r.push(new A.lk(new A.a2m(),"Projects",s))
 r.push(new A.lk(new A.a2n(),"Certifications",s))
 r.push(new A.lk(new A.a2o(),"Achievements",s))
