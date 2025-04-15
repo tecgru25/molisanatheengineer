@@ -1,11 +1,11 @@
 {
-    "name": "flutter_portfolio",
-    "short_name": "flutter_portfolio",
+    "name": "Molisana the Engineer",
+    "short_name": "Molisana the Engineer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A sleek and responsive personal portfolio built with Flutter and Dart, designed to showcase my work, skills, and experience across platforms. This cross-platform app runs beautifully on both web and mobile devices, providing a consistent and engaging user experience.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
